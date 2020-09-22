@@ -4,11 +4,6 @@
  * and open the template in the editor.
  */
 package Backend;
-
-/**
- *
- * @author anclenius
- */
 public class Calculos_Discretos {
     //Funcion que retorna el factorial de un numero, utilizando recursividad.
     public static int factorial(int i){
